@@ -9,6 +9,7 @@ int main()
 		printf("%d is an even number",num);
 	}else{
 		printf("%d is an odd number",num);
+	}
 		return 0;
 	
 }
